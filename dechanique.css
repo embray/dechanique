@@ -5,13 +5,16 @@ body {
 
 header {
   height: 120px;
-  margin-left: 40px;
   margin-bottom: 20px;
 }
 
 ul {
   margin: 0;
   padding: 0;
+}
+
+header nav {
+  float: left;
 }
 
 header nav li {
@@ -49,6 +52,7 @@ header nav a {
   background-image: url(images/logo.png);
   width: 457px;
   height: 130px;
+  margin-left: 40px;
 }
 
 #works {
