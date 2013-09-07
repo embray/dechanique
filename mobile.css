@@ -5,6 +5,7 @@ body {
 header, #works {
   margin-left: auto;
   margin-right: auto;
+  width: 600px;
 }
 
 header nav {
