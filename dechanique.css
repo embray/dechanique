@@ -1,0 +1,79 @@
+body {
+  margin: 10px 20px;
+  background-color: white;
+}
+
+header {
+  height: 120px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+header nav li {
+  margin: 0;
+  list-style-type: none;
+  float: left;
+}
+
+header nav a {
+  display: block;
+  width: 128px;
+  height: 128px;
+}
+
+#da-link {
+  background-image: url(images/da.png);
+}
+
+#twitter-link {
+  background-image: url(images/twitter.png);
+}
+
+#tumblr-link {
+  background-image: url(images/tumblr.png);
+}
+
+#email-link {
+  width: 150px;
+  background-image: url(images/email.png);
+}
+
+#home {
+  float: left;
+  display: block;
+  background-image: url(images/logo.png);
+  width: 457px;
+  height: 130px;
+}
+
+#works {
+  clear: left;
+  min-height: 650px;
+  background-image: url(images/background.png);
+  background-repeat: no-repeat;
+  background-position: 550px;
+}
+
+#works li {
+  margin: 0;
+  list-style-type: none;
+}
+
+#works ul a {
+  display: block;
+  width: 540px;
+  height: 290px;
+}
+
+#kindling-link {
+  background-image: url(images/kindling.png);
+}
+
+#macchina-link {
+  background-image: url(images/macchina.png);
+}
