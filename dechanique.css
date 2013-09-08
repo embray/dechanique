@@ -13,6 +13,12 @@ ul {
   padding: 0;
 }
 
+a span {
+/* All spans within a tags are to contain text that should be hidden
+   by image replacements */
+  display: none;
+}
+
 header nav {
   float: left;
 }
